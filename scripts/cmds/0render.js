@@ -23,7 +23,7 @@ module.exports = {
 
     try {
       const promptApiUrl = "https://www.api.vyturex.com/describe?url=";
-      const renderApiUrl = "https://ai-tools.replit.app/render?prompt=";
+      const renderApiUrl = "https://markdevs69-1efde24ed4ea.herokuapp.com/render?prompt=dog";
 
       let prompt = '';
 
